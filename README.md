@@ -19,6 +19,6 @@
     <a href = "mailto:ilipegois@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://https://https://www.linkedin.com/in/luiz-felipe-esp%C3%ADndola-gois/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
- ![Snake animation](https://github.com/eulipegois/eulipegois/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/eulipegois)
 </div>
   
