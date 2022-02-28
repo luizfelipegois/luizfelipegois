@@ -1,6 +1,13 @@
 ## Hello welcome!
 
-### Skills  
+### About me
+
+I'm a full stack web development student at trybe. I like to consume a lot of UI/UX Design material and develop ideas for simple and beautiful interfaces. I like to be constantly updated about what is happening around the world, so I work and study in order to positively impact people's lives.
+
+##
+
+### Skills
+
 <div style="display: inline_block"><br>
  <img align="center" alt="Luiz-Redux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg">
  <img align="center" alt="Luiz-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
@@ -16,11 +23,18 @@
 </div>
 
 ##
+
+### Status
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eulipegois&show_icons=true&theme=dark)
+
+##
  
 ### Social
   
 <div>
     <a href="https://instagram.com/luizfelipe_gois" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://www.behance.net/lipegois" target="_blank"><img src="https://img.shields.io/badge/-behance-%230077B5?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
     <a href = "mailto:luizfelipegois.contact@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/devluizz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
