@@ -2,7 +2,7 @@
 
 ### About me
 
-I'm a full stack web development student at trybe. I like to consume a lot of UI/UX Design material and develop ideas for simple and beautiful interfaces. I like to be constantly updated about what is happening around the world, so I work and study in order to positively impact people's lives.
+Front end developer and student of Full Stack Web Development. I work on developing web solutions, applying UI/UX design concepts along with automated tests and agile methodologies.
 
 ##
 
