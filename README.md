@@ -2,7 +2,7 @@
 
 ### About me
 
-Front end developer and student of Full Stack Web Development. I work on developing web solutions, applying UI/UX design concepts along with automated tests and agile methodologies.
+I'm a Front end developer and student of Full Stack Web Development. Passionate about technology and user experience, I'm always looking to learn and improve. I have 1 year experience developing applications with ReactJs, React Native, JavaScript, Redux, Jest , styled-components and agile methodologies.
 
 ##
 
