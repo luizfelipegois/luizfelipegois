@@ -2,7 +2,7 @@
 
 ### About me
 
-I'm a Front-end developer and technology enthusiast. Passionate about technology and user experience, I'm always looking to learn and improve. I have 1 year of experience developing applications with ReactJs, React Native, JavaScript, Redux, Jest, styled-components and agile methodologies.
+Front-end developer and technology enthusiast. Passionate about user experience, I'm always looking to learn and improve. I have 1 year of experience developing applications with React, JavaScript, Redux, Testing Library, styled-components and bootstrap.
 
 ##
 
