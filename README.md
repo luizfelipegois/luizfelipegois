@@ -2,7 +2,7 @@
 
 ### About me
 
-Front-end developer and technology enthusiast. I work in the development and management of small and medium-sized web applications, using React, Jest, styled-components, bootstrap, Redux and Node.js technologies.
+Working with web development since 2021, mainly using React, JavaScript, Node.js, Jest, Redux and styled-components. I developed web applications that impact the management of personal expenses and personal routine. Always concerned about user experience and accessibility.
 
 ##
 
