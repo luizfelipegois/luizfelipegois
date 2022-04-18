@@ -2,7 +2,7 @@
 
 ### About me
 
-Working with web development since 2021, mainly using React, JavaScript, Node.js, Jest, Redux and styled-components. I developed web applications that impact the management of personal expenses and personal routine. Always concerned about user experience and accessibility.
+Front-end developer, working with web development since 2021. Developed applications that impact personal finance management and personal routine. I have solid knowledge in programming logic, Javascript, React, Jest, styled-components and code versioning. I'm interested in development best practices, building scalable solutions, accessibility and TDD.
 
 ##
 
