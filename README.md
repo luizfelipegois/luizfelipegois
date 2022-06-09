@@ -2,7 +2,7 @@
 
 ### About me
 
-Front-end developer, working with web development since 2021. Developed applications that impact personal finance management and personal routine. I have solid knowledge in programming logic, Javascript, React, Jest, styled-components and code versioning. I'm interested in development best practices, building scalable solutions, accessibility and TDD.
+Working with web development since 2021. I designed and developed applications that impact personal finance management and personal routine. I have solid knowledge in programming logic, Javascript, React, Jest, Node and code versioning. I'm interested in development best practices, building scalable solutions, accessibility and TDD.
 
 ##
 
