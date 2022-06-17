@@ -1,6 +1,6 @@
 ### About me
 
-Developing web solutions since 2021. I'm passionate about minimalist design and user experience, i'm interested in development best practices, building scalable solutions, accessibility and TDD.
+Software developer with experience in JavaScript frameworks (React), ECMAScript, JavaScript, CSS/Styled-components, Node, SQL, Docker, Jest and Figma. I am interested in development best practices, building scalable solutions and TDD.
 
 ##
 
