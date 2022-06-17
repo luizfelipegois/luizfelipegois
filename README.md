@@ -1,8 +1,6 @@
-## Hello welcome!
-
 ### About me
 
-[Working with web development since 2021. I designed and developed applications that impact personal finance management and personal routine. I have solid knowledge in programming logic, Javascript, React, Jest, Node and code versioning. I'm interested in development best practices, building scalable solutions, accessibility and TDD.](https://www.behance.net/gallery/146208247/Music-app-concept/modules/825985691)
+Developing web solutions since 2021. I'm passionate about minimalist design and user experience, i'm interested in development best practices, building scalable solutions, accessibility and TDD.
 
 ##
 
