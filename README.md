@@ -21,12 +21,6 @@ Software developer with experience in JavaScript frameworks (React), ECMAScript,
 </div>
 
 ##
-
-### Status
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eulipegois&show_icons=true&theme=dark)
-
-##
  
 ### Social
   
