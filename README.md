@@ -1,6 +1,8 @@
 ### About me
 
-Software developer with experience in JavaScript frameworks (React), ECMAScript, JavaScript, TypeScript, CSS/Styled-components, Node, SQL, Docker, Jest and Figma. I'm interested in development best practices, building scalable solutions and TDD.
+Software developer specialized in JavaScript frameworks, with an emphasis on React, and extensive knowledge in ECMAScript, TypeScript, CSS/Styled-components, Node.js and Express (Node.js). Proficient in databases including MySQL, PostgreSQL, MongoDB and SQL Server. Solid experience in REST (Representational State Transfer) and security expertise, covering OAuth 2.0, JWT (JSON Web Tokens) and HTTPS (SSL/TLS).
+
+I demonstrate ability to implement good development practices and focus on building scalable solutions. I have experience with essential tools such as Docker, Jest, Mocha, and design skills with Figma. Committed to test-driven development (TDD) and always looking to improve my skills to drive projects efficiently and innovatively.
 
 ##
 
