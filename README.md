@@ -4,6 +4,24 @@ I have been working with React.js, Next.js, TypeScript and Node.js for 2 years, 
 
 ##
 
+### Experience
+
+Freelance Full Stack Developer | March 2022 – Present Workana
+
+I planned through Figma, Next.js, React.js and video meetings the interfaces of projects as well as the particularities of each system. Through APIs
+personalized, customers obtained an efficient database capable of
+manage and authenticate users, make purchases on the platform and reserve some service provided by the company.
+
+##
+
+### Academic education
+
+Full Stack Web Development, Information Technology
+Trybe - July 2021 - September 2022
+Access: <a href = "https://www.credential.net/9de1cf1f-c4a8-4668-893c-07276f8353c3#gs.5y5jwu"></a>
+
+##
+
 ### Skills
 
 <div style="display: inline_block"><br>
@@ -16,13 +34,4 @@ I have been working with React.js, Next.js, TypeScript and Node.js for 2 years, 
  <img align="center" alt="Luiz-Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
  <img align="center" alt="Luiz-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
  <img align="center" alt="Luiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
-
-##
- 
-### Social
-  
-<div>
-    <a href = "mailto:luizfelipegois.contact@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/luizfelipegois/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
