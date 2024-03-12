@@ -1,8 +1,6 @@
 ### About me
 
-Software developer specialized in JavaScript frameworks, with an emphasis on React, and extensive knowledge in ECMAScript, TypeScript, CSS/Styled-components, Node.js and Express (Node.js). Proficient in databases including MySQL, PostgreSQL, MongoDB and SQL Server. Solid experience in REST (Representational State Transfer) and security expertise, covering OAuth 2.0, JWT (JSON Web Tokens) and HTTPS (SSL/TLS).
-
-I demonstrate ability to implement good development practices and focus on building scalable solutions. I have experience with essential tools such as Docker, Jest, Mocha, and design skills with Figma. Committed to test-driven development (TDD) and always looking to improve my skills to drive projects efficiently and innovatively.
+I have been working with React.js, Next.js, TypeScript and Node.js for 2 years, having proficiency in MySQL, PostgreSQL and MongoDB. I am dedicated to the efficient creation of Landing Pages and Management Systems, directly contributing to progress and company expansion.
 
 ##
 
@@ -15,13 +13,9 @@ I demonstrate ability to implement good development practices and focus on build
  <img align="center" alt="Luiz-Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
  <img align="center" alt="Luiz-Redux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg">
   <img align="center" alt="Luiz-jest" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg">
- <img align="center" alt="Luiz-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
  <img align="center" alt="Luiz-Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
- <img align="center" alt="Luiz-Photoshop" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg">
  <img align="center" alt="Luiz-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
  <img align="center" alt="Luiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="Luiz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="Luiz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </div>
 
 ##
