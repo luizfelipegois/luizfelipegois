@@ -18,6 +18,7 @@ manage and authenticate users, make purchases on the platform and reserve some s
 
 Full Stack Web Development, Information Technology
 Trybe - July 2021 - September 2022
+
 Access: <a href = "https://www.credential.net/9de1cf1f-c4a8-4668-893c-07276f8353c3#gs.5y5jwu">View credential</a>
 
 ##
