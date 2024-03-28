@@ -1,6 +1,6 @@
 ### About me
 
-I have been working with React.js, Next.js, TypeScript and Node.js for 2 years, having proficiency in MySQL, PostgreSQL and MongoDB. I am dedicated to the efficient creation of Landing Pages and Management Systems, directly contributing to progress and company expansion.
+Software developer for over 2 years, with a solid foundation in Next.js/React.js, TypeScript, Node.js and MongoDB. I developed microservices and websites, always aiming to build high-performance and scalable products.
 
 ##
 
